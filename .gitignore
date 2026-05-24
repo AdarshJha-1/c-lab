@@ -1,0 +1,7 @@
+bin
+*.out
+obj
+*.o
+env
+vscode
+
